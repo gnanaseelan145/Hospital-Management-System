@@ -9,7 +9,7 @@ This is a complete web-based Hospital Management System built using PHP and MySQ
 ### 🔐 Login Pages
 
 **Admin Login**
-![Admin Login](screenshots/Adminlogin2.png)
+![Admin Login](screenshots/Admin_login2.png)
 
 **Doctor Login**
 ![Doctor Login 1](screenshots/doctorlogin.png)  
@@ -82,3 +82,19 @@ This is a complete web-based Hospital Management System built using PHP and MySQ
    - Create a new database (e.g., `hospital_db`)
    - Import the file from: `database/hospital_db.sql`
 5. Open browser and go to:
+
+
+
+---
+
+## 👨‍💻 Author
+
+**Gnanaseelan M**  
+_Budding developer passionate about creating efficient web systems._  
+[GitHub](https://github.com/Gnanaseelan145) | [LinkedIn](https://www.linkedin.com/in/gnanaseelan145)
+
+---
+
+## 📂 Folder Structure
+
+
