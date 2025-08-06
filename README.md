@@ -88,6 +88,8 @@ This is a complete web-based Hospital Management System built using PHP and MySQ
 ---
 
 ## 📂 Folder Structure 
+📂 View the full folder structure: [structure.txt](structure.txt)
+
 
 ---
 
