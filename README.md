@@ -9,7 +9,7 @@ This is a complete web-based Hospital Management System built using PHP and MySQ
 ### 🔐 Login Pages
 
 **Admin Login**
-![Admin Login](screenshots/Admin_login2.png)
+![Admin Login](Screenshots/Admin_login2.png)
 
 **Doctor Login**
 ![Doctor Login 1](screenshots/doctorlogin.png)  
