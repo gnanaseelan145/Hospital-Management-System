@@ -17,7 +17,7 @@ Developed as part of my Bachelor of Computer Technology degree under the guidanc
 ### 🔐 Login Screens
 
 **Admin Login**  
-![Admin Login](Screenshots/adminlogin.png)
+![Admin Login](Screenshots/Admin login.png)
 
 **Doctor Login**  
 ![Doctor Login 1](Screenshots/doctorlogin.png)  
