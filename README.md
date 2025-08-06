@@ -87,6 +87,11 @@ This is a complete web-based Hospital Management System built using PHP and MySQ
 
 ---
 
+## 📂 Folder Structure 
+
+---
+
+
 ## 👨‍💻 Author
 
 **Gnanaseelan M**  
@@ -95,6 +100,6 @@ _Budding developer passionate about creating efficient web systems._
 
 ---
 
-## 📂 Folder Structure
+
 
 
