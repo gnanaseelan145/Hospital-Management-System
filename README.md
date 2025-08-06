@@ -1,6 +1,6 @@
-# 🏥 Online Hospital Management System
+# 🏥 Hospital Management System
 
-This project, **Online Hospital Management System**, is a full-featured web application built using **PHP and MySQL**. It is designed to simplify the workflow and day-to-day operations in a hospital by providing separate roles for **Admin**, **Doctors**, and **Receptionists**.
+This project, **Hospital Management System**, is a full-featured web application built using **PHP and MySQL**. It is designed to simplify the workflow and day-to-day operations in a hospital by providing separate roles for **Admin**, **Doctors**, and **Receptionists**.
 
 Developed as part of my Bachelor of Computer Technology degree under the guidance of Dr. R. Jayaprakash at **Nallamuthu Gounder Mahalingam College**, this system helps in managing:
 
@@ -17,11 +17,11 @@ Developed as part of my Bachelor of Computer Technology degree under the guidanc
 ### 🔐 Login Screens
 
 **Admin Login**  
-![Admin Login](screenshots/adminlogin.png)
+![Admin Login](Screenshots/adminlogin.png)
 
 **Doctor Login**  
-![Doctor Login 1](screenshots/doctorlogin.png)  
-![Doctor Login 2](screenshots/doctorlogin2.png)
+![Doctor Login 1](Screenshots/doctorlogin.png)  
+![Doctor Login 2](Screenshots/doctorlogin2.png)
 
 **Receptionist Login**  
 ![Receptionist Login](screenshots/receptionistlogin.png)
