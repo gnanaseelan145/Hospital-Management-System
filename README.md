@@ -17,7 +17,7 @@ Developed as part of my Bachelor of Computer Technology degree under the guidanc
 ### 🔐 Login Screens
 
 **Admin Login**  
-![Admin Login]([Screenshots/Admin_login.png](https://github.com/gnanaseelan145/Hospital-Management-System/blob/main/Screenshots/Admin%20login.png))
+![Admin Login]([Screenshots/Admin_login.png])
 
 **Doctor Login**  
 ![Doctor Login 1](Screenshots/doctorlogin.png)  
