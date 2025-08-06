@@ -1,21 +1,29 @@
-# 🏥 Hospital Management System (OHMS)
+# 🏥 Online Hospital Management System
 
-This is a complete web-based Hospital Management System built using PHP and MySQL. It supports multiple user roles such as **Admin**, **Doctor**, and **Receptionist**, enabling efficient handling of appointments, patients, billing, and reports.
+This project, **Online Hospital Management System**, is a full-featured web application built using **PHP and MySQL**. It is designed to simplify the workflow and day-to-day operations in a hospital by providing separate roles for **Admin**, **Doctors**, and **Receptionists**.
+
+Developed as part of my Bachelor of Computer Technology degree under the guidance of Dr. R. Jayaprakash at **Nallamuthu Gounder Mahalingam College**, this system helps in managing:
+
+- Patient registrations
+- Doctor appointments
+- Billing and payment
+- Role-based dashboards and access
+- Report generation
 
 ---
 
 ## 📸 Screenshots
 
-### 🔐 Login Pages
+### 🔐 Login Screens
 
-**Admin Login**
-![Admin Login](Screenshots/Admin_login2.png)
+**Admin Login**  
+![Admin Login](screenshots/adminlogin.png)
 
-**Doctor Login**
+**Doctor Login**  
 ![Doctor Login 1](screenshots/doctorlogin.png)  
 ![Doctor Login 2](screenshots/doctorlogin2.png)
 
-**Receptionist Login**
+**Receptionist Login**  
 ![Receptionist Login](screenshots/receptionistlogin.png)
 
 ---
@@ -33,33 +41,33 @@ This is a complete web-based Hospital Management System built using PHP and MySQ
 
 ---
 
-### 🧑‍⚕️ Doctor Module
+### 🧑‍⚕️ Doctor Panel
 
-**Appointments View**  
-![Doctor Appointments](screenshots/doctorappointments.png)
-
-**Patient Details**  
+**Patient Management**  
 ![Doctor Patients](screenshots/doctorpatients.png)
+
+**Appointments**  
+![Doctor Appointments](screenshots/doctorappointments.png)
 
 ---
 
-### 🧾 Receptionist Module
+### 💵 Receptionist Panel
 
-**Add Patient Page**  
+**Add Patient**  
 ![Add Patient](screenshots/addpatient.png)
 
-**Billing Page**  
+**Generate Bill**  
 ![Billing](screenshots/billing.png)
 
 ---
 
-### 📋 Admin Panel
+### ⚙️ Admin Management
 
 **Manage Doctors**  
 ![Manage Doctors](screenshots/managedoctors.png)
 
 **Manage Receptionists**  
-![Manage Receptionists](screenshots/managereceptionist.png)
+![Manage Receptionist](screenshots/managereceptionist.png)
 
 ---
 
