@@ -20,11 +20,11 @@ Developed as part of my Bachelor of Computer Technology degree under the guidanc
 ![Admin](Screenshots/Admin_login.PNG)
 
 **Doctor Login**  
-![Doctor Login 1](Screenshots/doctorlogin.png)  
-![Doctor Login 2](Screenshots/doctorlogin2.png)
+![Doctor Login 1](Screenshots/Doctorlogin.png)  
+![Doctor Login 2](Screenshots/Doctorlogin2.png)
 
-**Receptionist Login**  
-![Receptionist Login](screenshots/receptionistlogin.png)
+**Patient Login**  
+![Receptionist Login](screenshots/patientlogin.png)
 
 ---
 
@@ -36,7 +36,7 @@ Developed as part of my Bachelor of Computer Technology degree under the guidanc
 **Doctor Dashboard**  
 ![Doctor Dashboard](screenshots/doctordashboard.png)
 
-**Receptionist Dashboard**  
+**Patient Dashboard**  
 ![Receptionist Dashboard](screenshots/receptionistdashboard.png)
 
 ---
