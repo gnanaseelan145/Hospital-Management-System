@@ -17,57 +17,56 @@ Developed as part of my Bachelor of Computer Technology degree under the guidanc
 ### 🔐 Login Screens
 
 **Admin Login**  
-![Admin](Screenshots/Admin_login2.png)
+![Admin Login](Screenshots/Admin%20login.png)  
+![Admin Login 2](Screenshots/Admin%20login2.png)
 
 **Doctor Login**  
-![Doctor Login 1](Screenshots/Doctorlogin.png)  
-![Doctor Login 2](Screenshots/Doctorlogin2.png)
+![Doctor Login 1](Screenshots/Doctor%20login.png)  
+![Doctor Login 2](Screenshots/Doctor%20login2.png)
 
 **Patient Login**  
-![Receptionist Login](screenshots/patientlogin.png)
+![Patient Login](Screenshots/Patient%20login.png)  
+![Patient Login 2](Screenshots/Patient%20login2.png)
 
 ---
 
 ### 🏠 Dashboards
 
-**Admin Dashboard**  
-![Admin Dashboard](screenshots/admindashboard.png)
+**Appointments**  
+![Appointments](Screenshots/Appoinment%20details.png)
 
-**Doctor Dashboard**  
-![Doctor Dashboard](screenshots/doctordashboard.png)
+**Admin Dashboard**  
+![Doctor Details](Screenshots/Doctor%20details.png)  
+![Doctor Details 2](Screenshots/Doctor%20details2.png)
 
 **Patient Dashboard**  
-![Receptionist Dashboard](screenshots/receptionistdashboard.png)
+![Patient Registration](Screenshots/Patient%20Registration.png)  
+![Patient Registration 2](Screenshots/Patient%20Registration2.png)
 
 ---
 
 ### 🧑‍⚕️ Doctor Panel
 
-**Patient Management**  
-![Doctor Patients](screenshots/doctorpatients.png)
+**Prescription Details**  
+![Prescription](Screenshots/Prescription%20details.png)  
+![Prescription 2](Screenshots/Prescription%20details2.png)
 
-**Appointments**  
-![Doctor Appointments](screenshots/doctorappointments.png)
+**Treatment Details**  
+![Treatment](Screenshots/Treatment%20details.png)  
+![Treatment 2](Screenshots/Treatment%20details2.png)
 
 ---
 
 ### 💵 Receptionist Panel
 
-**Add Patient**  
-![Add Patient](screenshots/addpatient.png)
-
-**Generate Bill**  
-![Billing](screenshots/billing.png)
+**Billing Details**  
+![Billing](Screenshots/Billing%20details.png)
 
 ---
 
-### ⚙️ Admin Management
+### 📅 Appointments View
 
-**Manage Doctors**  
-![Manage Doctors](screenshots/managedoctors.png)
-
-**Manage Receptionists**  
-![Manage Receptionist](screenshots/managereceptionist.png)
+![View Appointment](Screenshots/view%20Appoinment.png)
 
 ---
 
@@ -89,18 +88,14 @@ Developed as part of my Bachelor of Computer Technology degree under the guidanc
    - Open `phpMyAdmin`
    - Create a new database (e.g., `hospital_db`)
    - Import the file from: `database/hospital_db.sql`
-5. Open browser and go to:
-
-
+5. Open browser and go to: `http://localhost/Hospital-Management-System`
 
 ---
 
-## 📂 Folder Structure 
+## 📂 Folder Structure  
 📂 View the full folder structure: [structure.txt](structure.txt)
 
-
 ---
-
 
 ## ✍️ Author
 
@@ -115,10 +110,4 @@ Developed as part of my Bachelor of Computer Technology degree under the guidanc
 - 💼 [LinkedIn](https://www.linkedin.com/in/gnanaseelan-m-806b01250)  
 - 🧠 [GitHub](https://github.com/gnanaseelan145)  
 - 📧 gnanaseelan145@gmail.com  
-- 📱 +91 63806 93689  
-
----
-
-
-
-
+- 📱 +91 63806 93689
